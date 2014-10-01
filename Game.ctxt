@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=list
+comment1.target=void\ reducer(java.util.ArrayList)
+comment2.params=list\ letter
+comment2.target=java.util.ArrayList\ reducer(java.util.ArrayList,\ char)
+comment3.params=master\ letter
+comment3.target=java.util.ArrayList\ findMax(java.util.Map,\ char)
+comment4.params=
+comment4.target=void\ print()
+comment5.params=s\ c
+comment5.target=java.lang.String\ skel(java.lang.String,\ char)
+numComments=6
